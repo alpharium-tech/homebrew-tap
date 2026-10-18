@@ -1,6 +1,6 @@
 cask "groupshelf" do
-  version "1.2.0"
-  sha256 "b8a5114050fa5c69961d2e4c8790a00034f0bf9bdedb1982187c4836eba509c2"
+  version "1.3.0"
+  sha256 "15589e734c0a634235dbfecb5d98efc11b94eeb02f7cb03d7923855add1da4c9"
 
   url "https://dl.group-shelf.com/GroupShelf-#{version}.zip"
   name "GroupShelf"
