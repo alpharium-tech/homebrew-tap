@@ -16,6 +16,7 @@ cask "groupshelf" do
   depends_on macos: :sequoia
 
   app "GroupShelf.app"
+  binary "#{appdir}/GroupShelf.app/Contents/Helpers/groupshelf"
 
   uninstall quit: "dev.groupshelf.GroupShelf"
 
